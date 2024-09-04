@@ -18,16 +18,16 @@ MonoBehaviour:
     Clip: {fileID: 0}
   - Mult: 2
     Text: Great!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 26e1f4b4bfec442489aa1f9d0c82a53e, type: 2}
   - Mult: 3
     Text: RESPECT+
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 3b72af5b6961e5e488cbc025863f1a7c, type: 2}
   - Mult: 4
     Text: WOW!!!!!!!!!!!!!!!!!!!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 3b72af5b6961e5e488cbc025863f1a7c, type: 2}
   - Mult: 5
     Text: BRO? YOU'RE BEST!!!111!!!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 31a040abf6b38c44eb28dca15db2ef3f, type: 2}
   - Mult: 6
     Text: OOOOHHHHH CARRRRNAGE
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 14de628672b19f24794c02ac5c554c8b, type: 2}
